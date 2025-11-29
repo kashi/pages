@@ -1,0 +1,4 @@
+baseURL = "https://blog.kashi.jp/"
+languageCode = "ja"
+title = "blog.kashi"
+theme = "kashi-theme"
